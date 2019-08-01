@@ -1,3 +1,4 @@
+---
 name: greet.concurrency
 pack: hello_st2
 description: Limits the concurrent executions of the greet action.

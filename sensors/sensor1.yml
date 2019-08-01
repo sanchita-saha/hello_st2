@@ -1,3 +1,4 @@
+---
 class_name: "HelloSensor"
 entry_point: "sensor1.py"
 description: "Test sensor that emits triggers."
