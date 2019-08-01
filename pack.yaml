@@ -1,3 +1,4 @@
+---
 ref: hello_st2
 # User-friendly pack name. If this attribute contains spaces or any other special characters, then
 # the "ref" attribute must also be specified (see above).
